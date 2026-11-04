@@ -1,19 +1,25 @@
 {
   "title": "Cyber Security Dashboard for Non-Technical Managers",
-  "seq": 25,
+  "slug": "cyber-security-dashboard-for-non-technical",
   "kind": "governance",
   "mode": "SyntheticBaseline",
-  "generatedUtc": "2026-11-04T17:32:11.127824+00:00",
+  "generatedUtc": "2026-11-04T17:56:46.118020+00:00",
   "author": "Md Shohrab Hossen Niaz",
-  "notes": "Baseline evidence model for portfolio reproducibility. Live lab evidence may be added later without renaming the repo.",
+  "publicReadiness": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  },
   "artefacts": [
     "gap analysis",
     "roadmap",
-    "reporting pack outline"
+    "reporting pack"
   ],
   "scoreModel": {
-    "baselineMaturity": 42,
-    "targetMaturity": 70,
-    "unit": "0-100 design-coverage index"
+    "baseline": 42,
+    "target": 75,
+    "unit": "design-coverage index"
   }
 }
