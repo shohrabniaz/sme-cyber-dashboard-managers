@@ -1,4 +1,4 @@
 __version__ = "1.0.0"
 __author__ = "Md Shohrab Hossen Niaz"
 PROJECT_SLUG = "sme-cyber-dashboard-managers"
-PROJECT_KIND = "governance"
+PROJECT_KIND = "analytics"
